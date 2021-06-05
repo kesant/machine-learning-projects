@@ -39,5 +39,5 @@ def main():
   print(f"Los valores b0={b[0]} y b1={b[1]}")
   #graficamos la regresion
   funcion_de_graficado(x,y,b)
-if __name__=="__main":
+if __name__=="__main__":
   main()    
